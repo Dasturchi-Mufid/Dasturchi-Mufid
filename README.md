@@ -8,8 +8,8 @@ I'm Shahbozbek, a Python Django Backend Developer. 🐍
 - 🌱 Always eager to learn and explore new technologies.
 
 🚀 My Tech Stack
-- Python | Django | <s>Flask</s>
-- HTML | CSS | <s>JavaScript</s>
+- Python | Django
+- HTML | CSS | JavaScript
 - <s>SQL</s> | PostgreSQL | <s>MySQL</s>
 - Git | GitHub | VS Code
 
